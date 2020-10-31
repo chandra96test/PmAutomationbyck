@@ -1,0 +1,8 @@
+2020-10-30 14:57:35 [io.github.bonigarcia.wdm.WebDriverManager] INFO :: Using chromedriver 86.0.4240.22 (since Google Chrome 86 is installed in your machine)
+2020-10-30 14:57:35 [io.github.bonigarcia.wdm.WebDriverManager] INFO :: Exporting webdriver.chrome.driver as C:\Users\PmChandra\.m2\repository\webdriver\chromedriver\win32\86.0.4240.22\chromedriver.exe
+2020-10-30 14:57:38 [com.blizz.portal.ui.PortalLoginPage] INFO :: ChromeDriver: chrome on XP (84589d4b320cfa588131471ff404acaa)
+2020-10-30 14:57:51 [com.blizz.portal.ui.PortalLoginPage] INFO :: User able to enter username &  password in placeholder
+2020-10-30 14:57:53 [com.blizz.common.portal.LoginBlizzPage] INFO :: ChromeDriver: chrome on XP (84589d4b320cfa588131471ff404acaa)
+2020-10-30 14:57:53 [com.blizz.common.portal.PortalHomePage] INFO :: User is navigated to Home page
+2020-10-30 14:58:08 [com.blizz.common.portal.LoginBlizzPage] WARN :: User is not able to see welcome pop up
+2020-10-30 14:58:24 [com.blizz.common.portal.LoginBlizzPage] WARN :: User not able to enter keyword

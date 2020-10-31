@@ -1,0 +1,28 @@
+steps to add dependencies
+Add Selenium Java » 3.141.59
+
+<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+
+Add Selenium Java » 3.141.59
+
+<dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>3.141.59</version>
+</dependency>
+-----------------------------------------
+Add jnuit
+
+JUnit » 4.13
+<!-- https://mvnrepository.com/artifact/junit/junit -->
+<dependency>
+    <groupId>junit</groupId>
+    <artifactId>junit</artifactId>
+    <version>4.13</version>
+    <scope>test</scope>
+</dependency>
+
+-now save the project
+-you will find new folder maven dependencies
+
+96
